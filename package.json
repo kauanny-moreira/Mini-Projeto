@@ -16,7 +16,7 @@
     "url": "https://github.com/kauanny-moreira/Mini-Projeto/issues"
   },
   "homepage": "https://github.com/kauanny-moreira/Mini-Projeto#readme",
-  "description": "",
+  "description": "API de apoio a mulheres em situação de risco",
   "dependencies": {
     "express": "^5.1.0"
   }
